@@ -1,3 +1,7 @@
+# Leer antes de
+
+Actualización del lunes 1 am. Han habido demoras por experimentos en el IDE. Se perdió mucho tiempo configurando Gradle y Maven, así que me cambié a Intellij y todo fluye mucho mejor. Conectando con base de datos. En proceso.
+
 # Aplicación de Gestión de Clientes de Asesoría Financiera
 
 Esta aplicación Java proporciona una solución para manejar los datos de los clientes de un emprendimiento de asesoría financiera. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre la información de los clientes de manera sencilla y eficiente.
